@@ -6,7 +6,7 @@ Just a homemade ORM for school and homework
 
 <hr>
 
-####How to USE (index.php)
+#### How to USE (index.php)
 On input
  1. Database name ( `my_database` )
  2. User ( `root` )
